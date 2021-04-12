@@ -1,1 +1,1 @@
-# https://github.com/IrynaD-87/restaurant
+# https://irynad-87.github.io/restaurant/
